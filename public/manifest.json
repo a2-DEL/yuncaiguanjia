@@ -1,0 +1,17 @@
+{
+  "name": "云财管家",
+  "short_name": "云财",
+  "description": "小老板的 AI 财务团队",
+  "start_url": "/m",
+  "display": "standalone",
+  "background_color": "#1B5FE3",
+  "theme_color": "#1B5FE3",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
